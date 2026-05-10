@@ -48,10 +48,10 @@ because it has no incentive to challenge itself. In this system:
 
 ## Tech stack
 
-    Library         Role
+    Library          Role
     LangChain        Agent memory and LLM orchestration
-    Groq LLaMA 3.3  70B model — strong enough for multi-turn reasoning
-    Tavily          Web search API designed for AI agents
+    Groq LLaMA 3.3   70B model — strong enough for multi-turn reasoning
+    Tavily           Web search API designed for AI agents
     Streamlit        Live debate UI with per-agent colour coding
     BeautifulSoup    Page scraping for deeper research
 
